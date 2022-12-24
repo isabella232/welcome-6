@@ -5,12 +5,8 @@
 
 <p align="center">
 
-<p align="center">
-
 [![Website Badge](https://img.shields.io/badge/Minify-Code-blue?style=for-the-badge)](https://github.com/minifycode)
-  </p>
 
-<h2 align="center" style="margin-bottom:20px;">Competition Subjects</h2>
 <p align="center">
 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5">

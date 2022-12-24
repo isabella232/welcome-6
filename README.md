@@ -37,11 +37,11 @@
 
 
 <div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ro0ti&theme=tokyo-night&bg_color=00000000&point=00000000&hide_border=true&custom_title=Overall+Activity&area=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=minifycode&theme=tokyo-night&bg_color=00000000&point=00000000&hide_border=true&custom_title=Overall+Activity&area=true">
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ro0ti&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&fire=AD1E1EB2&ring=7D83C1&border=7D83C1&dates=99A0EC&currStreakNum=9198E0BC&currStreakLabel=6894E0BC&sideNums=6894E0BC" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=minifycode&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&fire=AD1E1EB2&ring=7D83C1&border=7D83C1&dates=99A0EC&currStreakNum=9198E0BC&currStreakLabel=6894E0BC&sideNums=6894E0BC" width="400">
     </a> 
 </p>
   
@@ -50,6 +50,6 @@
 
 <p align="center">
   <a href="#">
-    ...
+    Will be updated soon with leaderboard and details.
   </a>
 </p>

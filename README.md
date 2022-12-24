@@ -5,22 +5,12 @@
 
 <p align="center">
 
-
-![ro0ti](https://i.imgur.com/ddqsdzo.gif)
-
-
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Employer-Droply%20Corporation-blue?style=for-the-badge)](https://droplycorp.com/)
+[![Website Badge](https://img.shields.io/badge/Minify-Code-blue?style=for-the-badge)](https://github.com/minifycode)
   </p>
-<p align="center">
-    <a href="https://discord.com/users/825534327219421214">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-ro0ti%232266-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/ro0ti">
-   <img alt="Github" src="https://img.shields.io/github/followers/ro0ti?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
-</p>
 
-<h2 align="center" style="margin-bottom:20px;">Frontal Lobe Nodes</h2>
+<h2 align="center" style="margin-bottom:20px;">Competition Subjects</h2>
 <p align="center">
 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5">
@@ -56,10 +46,10 @@
 </p>
   
 
-<h2 align="center">Get In Touch</h2>
+<h2 align="center">Upcoming Event</h2>
 
 <p align="center">
   <a href="#">
-    <img title="ro0ti#2266" alt="ro0ti#2266" src="https://discord.c99.nl/widget/theme-1/825534327219421214.png"/>
+    ...
   </a>
 </p>
